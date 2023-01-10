@@ -1,0 +1,1 @@
+chrome-extension://kkilomkmpmkbdnfelcpgckmpcaemjcdh/celo-contentscript.js
